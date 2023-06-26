@@ -11,7 +11,7 @@ demostration. We never have promoted or will ever promote using this inside of a
 While we do understand your right to shutdown things operated inside SUSD/MMS. We are operating outside of SUSD as a branch of a group
 outside of "SUSD". This means we can continue to operate
 
-##Thanks
+## Thanks
 Thanks for making us do this
 
 -apollo
